@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a; /* Dark background color */
+  color: #00ffcc; /* Neon green text color */
+}
+
+.timer-container {
+  text-align: center;
+  background-color: #1a1a1a; /* Dark background color */
+  padding: 20000px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 255, 204, 0.5); /* Neon green box shadow */
+  border: 2px solid #00ffcc; /* Neon green border */
+  margin-top: 200px; /* Adjust margin-top to provide space between title and timer */
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #00ffcc !important; /* Neon green title color */
+}
+
+#timer {
+  font-size: 24px;
+  color: #00ffcc; /* Neon green timer text color */
+}
